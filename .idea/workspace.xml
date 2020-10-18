@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c3211267-9280-4d37-b7ab-7f1af59a1055" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="HW2" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1iqtvKjayHXPALRs4KG4CuZiPTZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/input" />
+      <recent name="$PROJECT_DIR$/src/main/resource" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.mapperreducer">
+    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8.0_265" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="MainClass" />
+      <module name="HW2" />
+      <option name="PROGRAM_PARAMETERS" value="input output" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParseXML" type="Application" factoryName="Application" temporary="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8.0_265" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ParseXML" />
+      <module name="HW2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mapperreducer" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8.0_265" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="MainClass" />
+      <module name="HW2" />
+      <option name="PROGRAM_PARAMETERS" value="input output" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.mapperreducer" />
+      <item itemvalue="Application.MainClass" />
+      <item itemvalue="Application.ParseXML" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ParseXML" />
+        <item itemvalue="Application.MainClass" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="HW2" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="hw2 [file:/Users/snehaltikare/Documents/3rd%20Sem/CS441%20Distributed%20Cloud%20Computing/midterm/snehal_tikare_midterm/HW2/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="HW2-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="4808631188959" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="656393282" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="196385411" />
+        <entry key="$PROJECT_DIR$/project/plugins.sbt" value="1317329738" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c3211267-9280-4d37-b7ab-7f1af59a1055" name="Default Changelist" comment="" />
+      <created>1602647178967</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602647178967</updated>
+      <workItem from="1602647181824" duration="16647000" />
+      <workItem from="1602743278693" duration="62025000" />
+      <workItem from="1602976371422" duration="2441000" />
+      <workItem from="1602979432749" duration="20166000" />
+      <workItem from="1603036527033" duration="108000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="96" key="#Project_Structure" timestamp="1603009562731">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="320" y="96" key="#Project_Structure/0.23.1440.877@0.23.1440.877" timestamp="1603009562731" />
+    <state x="458" y="202" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1603004211951">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="458" y="202" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.23.1440.877@0.23.1440.877" timestamp="1603004211951" />
+    <state x="99" y="65" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603009466460">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="99" y="65" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1603009466460" />
+    <state x="426" y="241" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602823329942">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="426" y="241" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.877@0.23.1440.877" timestamp="1602823329942" />
+    <state x="372" y="194" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1602740763516">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="372" y="194" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1440.877@0.23.1440.877" timestamp="1602740763516" />
+    <state x="483" y="139" key="#xdebugger.evaluate" timestamp="1602740474097">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="483" y="139" key="#xdebugger.evaluate/0.23.1440.877@0.23.1440.877" timestamp="1602740474097" />
+    <state width="454" height="466" key="DebuggerActiveHint" timestamp="1602868638424">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="454" height="466" key="DebuggerActiveHint/0.23.1440.877@0.23.1440.877" timestamp="1602868638424" />
+    <state width="1398" height="299" key="GridCell.Tab.0.bottom" timestamp="1603036746348">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="299" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1603036746348" />
+    <state width="1398" height="299" key="GridCell.Tab.0.center" timestamp="1603036746347">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="299" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1603036746347" />
+    <state width="1398" height="299" key="GridCell.Tab.0.left" timestamp="1603036746346">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="299" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1603036746346" />
+    <state width="1398" height="299" key="GridCell.Tab.0.right" timestamp="1603036746347">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="299" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1603036746347" />
+    <state width="1398" height="386" key="GridCell.Tab.1.bottom" timestamp="1602976335830">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="386" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1602976335830" />
+    <state width="1398" height="386" key="GridCell.Tab.1.center" timestamp="1602976335830">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="386" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1602976335830" />
+    <state width="1398" height="386" key="GridCell.Tab.1.left" timestamp="1602976335829">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="386" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1602976335829" />
+    <state width="1398" height="386" key="GridCell.Tab.1.right" timestamp="1602976335830">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="386" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1602976335830" />
+    <state x="221" y="63" key="SettingsEditor" timestamp="1603036636131">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="221" y="63" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1603036636131" />
+    <state width="720" height="406" key="XDebugger.FullValuePopup" timestamp="1602966383728">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="720" height="406" key="XDebugger.FullValuePopup/0.23.1440.877@0.23.1440.877" timestamp="1602966383728" />
+    <state x="397" y="261" key="com.intellij.ide.util.TipDialog" timestamp="1602647182832">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="397" y="261" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1602647182832" />
+    <state x="136" y="128" key="com.intellij.javaee.MapExternalResourceDialog" timestamp="1602700045871">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="136" y="128" key="com.intellij.javaee.MapExternalResourceDialog/0.23.1440.877@0.23.1440.877" timestamp="1602700045871" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="values.asScala" language="Scala" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

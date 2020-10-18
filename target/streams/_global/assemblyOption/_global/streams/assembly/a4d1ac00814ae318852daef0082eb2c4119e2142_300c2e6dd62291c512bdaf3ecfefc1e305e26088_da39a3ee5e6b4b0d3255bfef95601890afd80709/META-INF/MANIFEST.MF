@@ -1,0 +1,46 @@
+Manifest-Version: 1.0
+Created-By: Apache Maven Bundle Plugin
+Build-Jdk-Spec: 11
+Automatic-Module-Name: org.eclipse.jetty.security
+Implementation-Vendor: Eclipse Jetty Project
+Implementation-Version: 9.4.20.v20190813
+url: http://www.eclipse.org/jetty
+Bnd-LastModified: 1565731922788
+Build-Jdk: 11.0.4
+Built-By: joakim
+Bundle-Classpath: .
+Bundle-Copyright: Copyright (c) 2008-2019 Mort Bay Consulting Pty. Ltd.
+Bundle-Description: Jetty module for Jetty :: Security
+Bundle-DocURL: http://www.eclipse.org/jetty
+Bundle-License: http://www.apache.org/licenses/LICENSE-2.0, http://www.e
+ clipse.org/org/documents/epl-v10.php
+Bundle-ManifestVersion: 2
+Bundle-Name: Jetty :: Security
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-SymbolicName: org.eclipse.jetty.security
+Bundle-Vendor: Eclipse Jetty Project
+Bundle-Version: 9.4.20.v20190813
+Export-Package: org.eclipse.jetty.security;version="9.4.20";uses:="javax
+ .security.auth,javax.servlet,javax.servlet.annotation,javax.servlet.htt
+ p,org.eclipse.jetty.security.authentication,org.eclipse.jetty.server,or
+ g.eclipse.jetty.server.handler,org.eclipse.jetty.util,org.eclipse.jetty
+ .util.component,org.eclipse.jetty.util.resource,org.eclipse.jetty.util.
+ security",org.eclipse.jetty.security.authentication;version="9.4.20";us
+ es:="javax.security.auth,javax.servlet,javax.servlet.http,org.eclipse.j
+ etty.security,org.eclipse.jetty.server"
+Import-Package: javax.security.auth,javax.security.auth.callback,javax.s
+ ecurity.auth.login,javax.servlet;version="[3.1.0,4)",javax.servlet.anno
+ tation;version="[3.1.0,4)",javax.servlet.http;version="[3.1.0,4)",org.e
+ clipse.jetty.http;version="[9.4.20,10)",org.eclipse.jetty.security;vers
+ ion="[9.4.20,10)",org.eclipse.jetty.security.authentication;version="[9
+ .4.20,10)",org.eclipse.jetty.server;version="[9.4.20,10)",org.eclipse.j
+ etty.server.handler;version="[9.4.20,10)",org.eclipse.jetty.server.sess
+ ion;version="[9.4.20,10)",org.eclipse.jetty.util;version="[9.4.20,10)",
+ org.eclipse.jetty.util.component;version="[9.4.20,10)",org.eclipse.jett
+ y.util.log;version="[9.4.20,10)",org.eclipse.jetty.util.resource;versio
+ n="[9.4.20,10)",org.eclipse.jetty.util.security;version="[9.4.20,10)",o
+ rg.ietf.jgss
+Originally-Created-By: Apache Maven Bundle Plugin
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.8))"
+Tool: Bnd-3.5.0.201709291849
+

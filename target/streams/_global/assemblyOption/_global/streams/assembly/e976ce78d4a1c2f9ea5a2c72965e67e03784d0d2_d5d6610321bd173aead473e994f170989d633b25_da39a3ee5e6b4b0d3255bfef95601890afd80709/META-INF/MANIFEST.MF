@@ -1,0 +1,50 @@
+Manifest-Version: 1.0
+Created-By: Apache Maven Bundle Plugin
+Build-Jdk-Spec: 11
+Automatic-Module-Name: org.eclipse.jetty.servlet
+Implementation-Vendor: Eclipse Jetty Project
+Implementation-Version: 9.4.20.v20190813
+url: http://www.eclipse.org/jetty
+Bnd-LastModified: 1565732002106
+Build-Jdk: 11.0.4
+Built-By: joakim
+Bundle-Classpath: .
+Bundle-Copyright: Copyright (c) 2008-2019 Mort Bay Consulting Pty. Ltd.
+Bundle-Description: Jetty module for Jetty :: Servlet Handling
+Bundle-DocURL: http://www.eclipse.org/jetty
+Bundle-License: http://www.apache.org/licenses/LICENSE-2.0, http://www.e
+ clipse.org/org/documents/epl-v10.php
+Bundle-ManifestVersion: 2
+Bundle-Name: Jetty :: Servlet Handling
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-SymbolicName: org.eclipse.jetty.servlet
+Bundle-Vendor: Eclipse Jetty Project
+Bundle-Version: 9.4.20.v20190813
+Export-Package: org.eclipse.jetty.servlet;version="9.4.20";uses:="javax.
+ servlet,javax.servlet.descriptor,javax.servlet.http,org.eclipse.jetty.h
+ ttp.pathmap,org.eclipse.jetty.security,org.eclipse.jetty.server,org.ecl
+ ipse.jetty.server.handler,org.eclipse.jetty.server.handler.gzip,org.ecl
+ ipse.jetty.server.session,org.eclipse.jetty.util,org.eclipse.jetty.util
+ .annotation,org.eclipse.jetty.util.component,org.eclipse.jetty.util.res
+ ource",org.eclipse.jetty.servlet.listener;version="9.4.20";uses:="javax
+ .servlet",org.eclipse.jetty.servlet.jmx;version="9.4.20";uses:="org.ecl
+ ipse.jetty.jmx"
+Import-Package: javax.servlet;version="[3.1.0,4)",javax.servlet.annotati
+ on;version="[3.1.0,4)",javax.servlet.descriptor;version="[3.1.0,4)",jav
+ ax.servlet.http;version="[3.1.0,4)",org.eclipse.jetty.http;version="[9.
+ 4.20,10)",org.eclipse.jetty.http.pathmap;version="[9.4.20,10)",org.ecli
+ pse.jetty.io;version="[9.4.20,10)",org.eclipse.jetty.jmx;version="[9.4.
+ 20,10)";resolution:=optional,org.eclipse.jetty.security;version="[9.4.2
+ 0,10)",org.eclipse.jetty.server;version="[9.4.20,10)",org.eclipse.jetty
+ .server.handler;version="[9.4.20,10)",org.eclipse.jetty.server.handler.
+ gzip;version="[9.4.20,10)",org.eclipse.jetty.server.session;version="[9
+ .4.20,10)",org.eclipse.jetty.servlet;version="[9.4.20,10)",org.eclipse.
+ jetty.util;version="[9.4.20,10)";resolution:=optional,org.eclipse.jetty
+ .util.annotation;version="[9.4.20,10)";resolution:=optional,org.eclipse
+ .jetty.util.component;version="[9.4.20,10)";resolution:=optional,org.ec
+ lipse.jetty.util.log;version="[9.4.20,10)";resolution:=optional,org.ecl
+ ipse.jetty.util.resource;version="[9.4.20,10)";resolution:=optional
+Originally-Created-By: Apache Maven Bundle Plugin
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.8))"
+Tool: Bnd-3.5.0.201709291849
+
