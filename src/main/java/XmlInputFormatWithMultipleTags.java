@@ -13,12 +13,9 @@ import org.apache.hadoop.mapreduce.lib.input.TextInputFormat;
 import java.io.IOException;
 import java.nio.charset.StandardCharsets;
 
+//Implementation reference from https://github.com/apache/mahout/blob/ad84344e4055b1e6adff5779339a33fa29e1265d/examples/src/main/java/org/apache/mahout/classifier/bayes/XmlInputFormat.java
+//and https://github.com/Mohammed-siddiq/hadoop-XMLInputFormatWithMultipleTags
 
-/**
- * An implementation of XML input format.
- * Supports multiple start and end tags sent from the configuration.
- * start tags and end tags are delimited by ,(comma)
- */
 public class XmlInputFormatWithMultipleTags extends TextInputFormat {
 
     public static final String START_TAG_KEYS = "xmlinput.start";

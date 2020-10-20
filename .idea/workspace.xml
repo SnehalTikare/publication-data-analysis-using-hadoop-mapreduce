@@ -2,44 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3211267-9280-4d37-b7ab-7f1af59a1055" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/scala/TestClass.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__aopalliance_aopalliance_1_0_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__com_fasterxml_jackson_jaxrs_jackson_jaxrs_base_2_10_3_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__com_fasterxml_jackson_jaxrs_jackson_jaxrs_json_provider_2_10_3_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__com_fasterxml_jackson_module_jackson_module_jaxb_annotations_2_10_3_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__com_google_errorprone_error_prone_annotations_2_2_0_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__com_google_inject_extensions_guice_servlet_4_0_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__com_google_inject_guice_4_0_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__com_squareup_okhttp_okhttp_2_7_5_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__com_squareup_okio_okio_1_6_0_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__com_sun_jersey_contribs_jersey_guice_1_19_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__com_sun_jersey_jersey_client_1_19_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__io_netty_netty_3_10_6_Final_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__jakarta_activation_jakarta_activation_api_1_2_1_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__jakarta_xml_bind_jakarta_xml_bind_api_2_3_2_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__javax_inject_javax_inject_1_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__javax_xml_bind_jaxb_api_2_2_11_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_hadoop_hadoop_hdfs_client_3_3_0_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_hadoop_hadoop_mapreduce_client_core_3_3_0_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_hadoop_hadoop_yarn_api_3_3_0_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_hadoop_hadoop_yarn_client_3_3_0_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_hadoop_hadoop_yarn_common_3_3_0_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__org_eclipse_jetty_jetty_client_9_4_20_v20190813_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__org_eclipse_jetty_websocket_websocket_api_9_4_20_v20190813_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__org_eclipse_jetty_websocket_websocket_client_9_4_20_v20190813_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__org_eclipse_jetty_websocket_websocket_common_9_4_20_v20190813_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__org_jline_jline_3_9_0_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/HW2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/HW2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/build.sbt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$59c1fc4b2c3f72254df5$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$59c1fc4b2c3f72254df5.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$59c1fc4b2c3f72254df5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.conf" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/XmlInputFormatWithMultipleTags.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/XmlInputFormatWithMultipleTags.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/dblp_sample.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/dblp_sample.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/scala/DblpMapper.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/DblpMapper.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/scala/DblpReducer.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/DblpReducer.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/ParseXML.scala" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/scala-2.13/HW2-assembly-0.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/HW2-assembly-0.1.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/AuthorPublicationMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/AuthorPublicationMapper.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/AuthorPublicationReducer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/AuthorPublicationReducer.class" afterDir="false" />
@@ -52,42 +19,12 @@
       <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/MostCoAuthorMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/MostCoAuthorMapper.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/MostCoAuthorReducer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/MostCoAuthorReducer.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/NoCoAuthorReducer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/NoCoAuthorReducer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/ParseXML$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/ParseXML.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/PublicationOneAuthorMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/PublicationOneAuthorMapper.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/PublicationOneAuthorReducer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/PublicationOneAuthorReducer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/application.conf" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/application.conf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/update/update_cache_2.13/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/update/update_cache_2.13/inputs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/update/update_cache_2.13/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/update/update_cache_2.13/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/dblp_sample.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/dblp_sample.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/scala-2.13/zinc/inc_compile_2.13.zip" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/zinc/inc_compile_2.13.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/_global/csrLogger/_global/streams/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/_global/dumpStructure/_global/streams/out" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/streams/_global/assembly/_global/streams/assembly-inputs" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/assembly/_global/streams/assembly-inputs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/streams/_global/assembly/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/assembly/_global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/assemblyOption/_global/streams/assembly/6f810d09834f7bb05f9f51ef4793888730918f45_dir.dir" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/assemblyOption/_global/streams/assembly/6f810d09834f7bb05f9f51ef4793888730918f45_dir/AuthorPublicationMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/assemblyOption/_global/streams/assembly/6f810d09834f7bb05f9f51ef4793888730918f45_dir/AuthorPublicationReducer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/assemblyOption/_global/streams/assembly/6f810d09834f7bb05f9f51ef4793888730918f45_dir/AuthorsNYearsMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/assemblyOption/_global/streams/assembly/6f810d09834f7bb05f9f51ef4793888730918f45_dir/AuthorsNYearsReducer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/assemblyOption/_global/streams/assembly/6f810d09834f7bb05f9f51ef4793888730918f45_dir/AuthorsVenueMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/assemblyOption/_global/streams/assembly/6f810d09834f7bb05f9f51ef4793888730918f45_dir/AuthorsVenueReducer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/assemblyOption/_global/streams/assembly/6f810d09834f7bb05f9f51ef4793888730918f45_dir/DblpMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/assemblyOption/_global/streams/assembly/6f810d09834f7bb05f9f51ef4793888730918f45_dir/DblpReducer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/assemblyOption/_global/streams/assembly/6f810d09834f7bb05f9f51ef4793888730918f45_dir/MainClass$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/assemblyOption/_global/streams/assembly/6f810d09834f7bb05f9f51ef4793888730918f45_dir/MainClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/assemblyOption/_global/streams/assembly/6f810d09834f7bb05f9f51ef4793888730918f45_dir/MostCoAuthorMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/assemblyOption/_global/streams/assembly/6f810d09834f7bb05f9f51ef4793888730918f45_dir/MostCoAuthorReducer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/assemblyOption/_global/streams/assembly/6f810d09834f7bb05f9f51ef4793888730918f45_dir/NoCoAuthorReducer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/assemblyOption/_global/streams/assembly/6f810d09834f7bb05f9f51ef4793888730918f45_dir/ParseXML$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/assemblyOption/_global/streams/assembly/6f810d09834f7bb05f9f51ef4793888730918f45_dir/ParseXML.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/assemblyOption/_global/streams/assembly/6f810d09834f7bb05f9f51ef4793888730918f45_dir/PublicationOneAuthorMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/assemblyOption/_global/streams/assembly/6f810d09834f7bb05f9f51ef4793888730918f45_dir/PublicationOneAuthorReducer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/assemblyOption/_global/streams/assembly/6f810d09834f7bb05f9f51ef4793888730918f45_dir/TextArrayWritable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/assemblyOption/_global/streams/assembly/6f810d09834f7bb05f9f51ef4793888730918f45_dir/XmlInputFormatWithMultipleTags$XmlRecordReader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/assemblyOption/_global/streams/assembly/6f810d09834f7bb05f9f51ef4793888730918f45_dir/XmlInputFormatWithMultipleTags.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/assemblyOption/_global/streams/assembly/6f810d09834f7bb05f9f51ef4793888730918f45_dir/application.conf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/assemblyOption/_global/streams/assembly/6f810d09834f7bb05f9f51ef4793888730918f45_dir/dblp.dtd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/assemblyOption/_global/streams/assembly/6f810d09834f7bb05f9f51ef4793888730918f45_dir/dblp_sample.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/streams/_global/assemblyOption/_global/streams/assembly/976a53139e72822cf1f1f44613e371375e3ddcd0_dir/AuthorPublicationMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/assemblyOption/_global/streams/assembly/976a53139e72822cf1f1f44613e371375e3ddcd0_dir/AuthorPublicationMapper.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/streams/_global/assemblyOption/_global/streams/assembly/976a53139e72822cf1f1f44613e371375e3ddcd0_dir/AuthorPublicationReducer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/assemblyOption/_global/streams/assembly/976a53139e72822cf1f1f44613e371375e3ddcd0_dir/AuthorPublicationReducer.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/streams/_global/assemblyOption/_global/streams/assembly/976a53139e72822cf1f1f44613e371375e3ddcd0_dir/AuthorsNYearsMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/assemblyOption/_global/streams/assembly/976a53139e72822cf1f1f44613e371375e3ddcd0_dir/AuthorsNYearsMapper.class" afterDir="false" />
@@ -99,24 +36,12 @@
       <change beforePath="$PROJECT_DIR$/target/streams/_global/assemblyOption/_global/streams/assembly/976a53139e72822cf1f1f44613e371375e3ddcd0_dir/MostCoAuthorMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/assemblyOption/_global/streams/assembly/976a53139e72822cf1f1f44613e371375e3ddcd0_dir/MostCoAuthorMapper.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/streams/_global/assemblyOption/_global/streams/assembly/976a53139e72822cf1f1f44613e371375e3ddcd0_dir/MostCoAuthorReducer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/assemblyOption/_global/streams/assembly/976a53139e72822cf1f1f44613e371375e3ddcd0_dir/MostCoAuthorReducer.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/streams/_global/assemblyOption/_global/streams/assembly/976a53139e72822cf1f1f44613e371375e3ddcd0_dir/NoCoAuthorReducer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/assemblyOption/_global/streams/assembly/976a53139e72822cf1f1f44613e371375e3ddcd0_dir/NoCoAuthorReducer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/assemblyOption/_global/streams/assembly/976a53139e72822cf1f1f44613e371375e3ddcd0_dir/ParseXML$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/assemblyOption/_global/streams/assembly/976a53139e72822cf1f1f44613e371375e3ddcd0_dir/ParseXML.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/streams/_global/assemblyOption/_global/streams/assembly/976a53139e72822cf1f1f44613e371375e3ddcd0_dir/PublicationOneAuthorMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/assemblyOption/_global/streams/assembly/976a53139e72822cf1f1f44613e371375e3ddcd0_dir/PublicationOneAuthorMapper.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/streams/_global/assemblyOption/_global/streams/assembly/976a53139e72822cf1f1f44613e371375e3ddcd0_dir/PublicationOneAuthorReducer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/assemblyOption/_global/streams/assembly/976a53139e72822cf1f1f44613e371375e3ddcd0_dir/PublicationOneAuthorReducer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/assemblyOption/_global/streams/assembly/976a53139e72822cf1f1f44613e371375e3ddcd0_dir/application.conf" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/assemblyOption/_global/streams/assembly/976a53139e72822cf1f1f44613e371375e3ddcd0_dir/application.conf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.13/input_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.13/input_dsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.13/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.13/output_dsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.13/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.13/output" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/_global/_global/compileOutputs/previous" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/_global/_global/compileOutputs/previous" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/_global/_global/discoveredMainClasses/data" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/_global/_global/discoveredMainClasses/data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/assemblyOption/_global/streams/assembly/976a53139e72822cf1f1f44613e371375e3ddcd0_dir/dblp_sample.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/assemblyOption/_global/streams/assembly/976a53139e72822cf1f1f44613e371375e3ddcd0_dir/dblp_sample.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/streams/compile/compile/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/compile/_global/streams/out" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/streams/compile/compileIncremental/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncremental/_global/streams/out" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/streams/compile/copyResources/_global/streams/copy-resources" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/copyResources/_global/streams/copy-resources" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/mainClass/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/mainClass/_global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/test/_global/_global/compileOutputs/previous" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/_global/_global/compileOutputs/previous" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/test/_global/_global/definedTestNames/data" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/_global/_global/definedTestNames/data" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/streams/test/compileIncremental/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/compileIncremental/_global/streams/out" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/streams/test/definedTests/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/definedTests/_global/streams/out" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/streams/test/test/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/test/_global/streams/out" afterDir="false" />
@@ -311,8 +236,16 @@
       <workItem from="1602743278693" duration="62025000" />
       <workItem from="1602976371422" duration="2441000" />
       <workItem from="1602979432749" duration="20166000" />
-      <workItem from="1603036527033" duration="16708000" />
+      <workItem from="1603036527033" duration="28844000" />
     </task>
+    <task id="LOCAL-00001" summary="Changed Mappers and Reducers">
+      <created>1603152842332</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603152842341</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -320,6 +253,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Changed Mappers and Reducers" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed Mappers and Reducers" />
   </component>
   <component name="WindowStateProjectService">
     <state x="320" y="96" key="#Project_Structure" timestamp="1603009562731">
@@ -346,10 +281,10 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="483" y="139" key="#xdebugger.evaluate/0.23.1440.877@0.23.1440.877" timestamp="1602740474097" />
-    <state x="204" y="33" key="CommitChangelistDialog2" timestamp="1603152750941">
+    <state x="204" y="33" key="CommitChangelistDialog2" timestamp="1603152800939">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="204" y="33" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1603152750941" />
+    <state x="204" y="33" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1603152800939" />
     <state width="454" height="466" key="DebuggerActiveHint" timestamp="1602868638424">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -390,6 +325,10 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="221" y="63" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1603061671789" />
+    <state x="320" y="171" key="Vcs.Push.Dialog.v2" timestamp="1603152856583">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="320" y="171" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1603152856583" />
     <state width="720" height="406" key="XDebugger.FullValuePopup" timestamp="1602966383728">
       <screen x="0" y="23" width="1440" height="877" />
     </state>

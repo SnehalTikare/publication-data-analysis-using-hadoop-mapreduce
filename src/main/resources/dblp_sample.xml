@@ -446,4 +446,69 @@
     <year>1992</year>
     <publisher>IBM Germany Science Center, Institute for Knowledge Based Systems</publisher>
 </article>
+    <proceedings mdate="2019-09-07" key="tr/trier/MI99-17" publtype="informal">
+        <editor>Dieter Baum</editor>
+        <editor>Norbert Th. M&uuml;ller</editor>
+        <editor>Richard R&ouml;dler</editor>
+        <title>MMB '99, Messung, Modellierung und Bewertung von Rechen- und Kommunikationssystemen, 10. GI/NTG-Fachtagung, 22.-24. September 1999, Trier, Kurzbeitr&auml;ge und Toolbeschreibungen</title>
+        <booktitle>MMB (Kurzvortr&auml;ge)</booktitle>
+        <series>Universit&auml;t Trier, Mathematik/Informatik, Forschungsbericht</series>
+        <volume>99-16</volume>
+        <year>1999</year>
+        <url>db/conf/mmb/mmb99k.html</url>
+    </proceedings>
+    <inproceedings mdate="2019-08-02" key="persons/Codd74">
+        <author>E. F. Codd</author>
+        <title>Seven Steps to Rendezvous with the Casual User.</title>
+        <month>January</month>
+        <year>1974</year>
+        <pages>179-200</pages>
+        <booktitle>IFIP Working Conference Data Base Management</booktitle>
+        <crossref>conf/ds/1974</crossref>
+        <url>db/conf/ds/dbm74.html#Codd74</url>
+        <note>IBM Research Report RJ 1333, San Jose, California</note>
+        <cdrom>DS/DS1974/P179.pdf</cdrom>
+    </inproceedings>
+    <www mdate="2018-10-18" key="persons/Ley2003">
+        <author>Michael Ley</author>
+        <title>ACM SIGMOD Contribution Award 2003 Acceptance Speech</title>
+        <year>2003</year>
+        <ee>http://www.informatik.uni-trier.de/~ley/db/about/contributionaward03.html</ee>
+    </www>
+    <book mdate="2019-12-30" key="persons/Lions1996">
+        <author>John Lions</author>
+        <title>Lions' Commentary on UNIX 6th Edition, with Source Code</title>
+        <year>1996</year>
+        <publisher>Peer-to-Peer Communications</publisher>
+        <series>Computer classics revisited</series>
+        <isbn>1-57398-013-7</isbn>
+        <ee>http://www.lemis.com/grog/Documentation/Lions/index.html</ee>
+        <ee>https://www.wikidata.org/entity/Q493858</ee>
+    </book>
+    <incollection mdate="2017-07-12" key="reference/crypt/Bleumer11l" publtype="encyclopedia">
+        <author>Gerrit Bleumer</author>
+        <title>Electronic Postage.</title>
+        <pages>389-391</pages>
+        <year>2011</year>
+        <booktitle>Encyclopedia of Cryptography and Security (2nd Ed.)</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4419-5906-5_199</ee>
+        <crossref>reference/crypt/2011</crossref>
+        <url>db/reference/crypt/crypt2011.html#Bleumer11l</url>
+    </incollection>
+    <book mdate="2019-06-27" key="reference/crypt/2005">
+        <editor>Henk C. A. van Tilborg</editor>
+        <title>Encyclopedia of Cryptography and Security</title>
+        <publisher>Springer</publisher>
+        <year>2005</year>
+        <isbn>978-0-387-23473-1</isbn>
+        <ee>https://doi.org/10.1007/0-387-23483-7</ee>
+        <url>db/reference/crypt/crypt2005.html</url>
+    </book>
+    <phdthesis mdate="2017-04-25" key="phd/Ghemawat95">
+        <author>Sanjay Ghemawat</author>
+        <title>The Modified Object Buffer: A Storage Management Technique for Object-Oriented Databases</title>
+        <year>1995</year>
+        <school>MIT Laboratory for Computer Science, Cambridge, MA, USA</school>
+        <ee>http://hdl.handle.net/1721.1/37012</ee>
+    </phdthesis>
 </dblp>
