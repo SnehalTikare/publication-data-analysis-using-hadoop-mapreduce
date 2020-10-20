@@ -23,5 +23,8 @@ libraryDependencies += "org.scala-lang.modules" %% "scala-xml" % "1.3.0"
 // https://mvnrepository.com/artifact/org.apache.hadoop/hadoop-common
 libraryDependencies += "org.apache.hadoop" % "hadoop-common" % "3.3.0"
 // https://mvnrepository.com/artifact/org.apache.hadoop/hadoop-mapreduce-client-core
-libraryDependencies += "org.apache.hadoop" % "hadoop-mapreduce-client-core" % "3.3.0"
+libraryDependencies += "org.apache.hadoop" % "hadoop-mapreduce-client-core" % "3.3.0" exclude("org.slf4j", "slf4j-log4j12")
+// https://mvnrepository.com/artifact/org.apache.hadoop/hadoop-mapreduce-client-jobclient
+//libraryDependencies += "org.apache.hadoop" % "hadoop-mapreduce-client-jobclient" % "3.3.0" % "provided"
+
 

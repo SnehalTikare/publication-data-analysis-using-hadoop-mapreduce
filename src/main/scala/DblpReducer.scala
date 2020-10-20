@@ -6,6 +6,7 @@ import org.apache.hadoop.io.{ArrayWritable, DoubleWritable, IntWritable, LongWri
 import org.apache.hadoop.mapreduce.Reducer
 
 import scala.collection.JavaConverters._
+import scala.collection.View.Empty
 import scala.collection.immutable.{ListMap, TreeMap}
 import scala.collection.mutable
 import scala.collection.mutable.ListBuffer
@@ -13,20 +14,32 @@ import scala.collection.mutable.ListBuffer
 
 class DblpReducer{
   def isConsecutive(seq: List[Int]): Int = {
-    val count = seq.sliding(2).count(a => a(0)+ 1 == a(1))
-    count
+    val ranges = mutable.ArrayBuffer[Int](1)
+    val lis = seq.distinct.sliding(2).foreach{
+      case y1 :: tail =>
+        if(tail.nonEmpty){
+          val y2 = tail.head
+          if(y2 - y1 == 1) ranges(ranges.size - 1) += 1
+          else ranges += 1
+        }
+    }
+    ranges.max
+    //val count = seq.sliding(2).count(a => a(0)+ 1 == a(1))
+    //count
   }
 }
 
 
 class AuthorsVenueReducer extends Reducer[Text, Text, Text, Text] {
-  val hashmap = new util.HashMap[String, Integer]()
+  //val hash_map = new mutable.HashMap[String,Integer]()
   @throws[IOException]
   @throws[InterruptedException]
   override def reduce(key: Text, values: lang.Iterable[Text], context: Reducer[Text, Text, Text, Text]#Context): Unit = {
+    //values.forEach(x => hash_map.put(x.toString,hash_map.getOrElse(x.toString,0)+1))
+    val hashmap = new util.HashMap[String, Integer]()
     values.forEach(x => hashmap.put(x.toString, hashmap.getOrDefault(x.toString, 0) + 1))
     val scalamap = hashmap.asScala
-    val sortedmap = ListMap(scalamap.toSeq.sortWith(_._2 > _._2): _*)//Make top ten
+    val sortedmap = scalamap.toSeq.sortWith(_._2 > _._2).take(10)//Make top ten
     sortedmap.foreach(x => context.write(key, new Text(x._1 + " " + x._2)))
   }
 }
@@ -40,7 +53,7 @@ class AuthorsNYearsReducer extends Reducer[Text,IntWritable,Text,IntWritable]{
       for(value <- values.asScala){
         years.addOne(value.get())
       }
-      if(years.length > 1){
+      if(years.length > 9){
         val count = new DblpReducer().isConsecutive(years.toList.sorted)
         if(count >= config.getInt("consecutive_years")) context.write(key,new IntWritable(count))
       }
@@ -79,7 +92,7 @@ class MostCoAuthorReducer extends Reducer[Text, Text,Text, LongWritable]{
   @throws[InterruptedException]
   override def cleanup(context: Reducer[Text, Text,Text, LongWritable]#Context): Unit = {
     val scalamap = hashmap.asScala
-    val sortedmap = ListMap(scalamap.toSeq.sortWith(_._2 > _._2): _*)
+    val sortedmap = scalamap.toSeq.sortWith(_._2 > _._2).take(100)
     sortedmap.foreach(x => context.write(new Text(x._1),new LongWritable(x._2)))
   }
 }
@@ -104,7 +117,7 @@ class NoCoAuthorReducer extends Reducer[Text, Text,Text, LongWritable]{
   @throws[InterruptedException]
   override def cleanup(context: Reducer[Text, Text,Text, LongWritable]#Context): Unit = {
     val scalamap = hashmap.asScala
-    val sortedmap = ListMap(scalamap.toSeq.sortWith(_._2 < _._2): _*)
+    val sortedmap = scalamap.toSeq.sortWith(_._2 < _._2).take(100)
     sortedmap.foreach(x => context.write(new Text(x._1),new LongWritable(x._2)))
   }
 }
