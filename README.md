@@ -52,4 +52,58 @@ $hdfs dfs -rm -r /output
 ```
 - The ouptut folder contains of 5 folder each representing output from 5 tasks.Rename the files named part-r-00000 to output.csv to see the output in CSV
 
-###
+### Task Description
+- Top ten published authors at each venue - 
+The program outputs the top ten authors who have published the most at each venue. The output is generated at /output//Task1-AuthorVenue.
+The sample output looks like below. The first column shows the Venue and Second column shows Author and the number of publications they have published under each venue.
+```
+AAAI Fall Symposium: Artificial Intelligence for Prognostics	Kai Goebel 5
+AAAI Fall Symposium: Artificial Intelligence for Prognostics	Michael G. Pecht 4
+AAAI Fall Symposium: Artificial Intelligence for Prognostics	George J. Vachtsevanos 2
+AAAI Fall Symposium: Artificial Intelligence for Prognostics	J. Wesley Hines 2
+AAAI Fall Symposium: Artificial Intelligence for Prognostics	Bhaskar Saha 2
+AAAI Fall Symposium: Artificial Intelligence for Prognostics	Abhinav Saxena 2
+AAAI Fall Symposium: Artificial Intelligence for Prognostics	Michael Baysek 1
+AAAI Fall Symposium: Artificial Intelligence for Prognostics	Timothy Stewart 1
+AAAI Fall Symposium: Artificial Intelligence for Prognostics	Carl S. Byington 1
+AAAI Fall Symposium: Artificial Intelligence for Prognostics	Shannon Mikus 1
+AAAI Fall Symposium: Artificial Intelligence of Humor	Victor Raskin 3
+AAAI Fall Symposium: Artificial Intelligence of Humor	J√©r√¥me Urbain 1
+AAAI Fall Symposium: Artificial Intelligence of Humor	Kohichi Sayama 1
+AAAI Fall Symposium: Artificial Intelligence of Humor	John Charles Simon 1
+AAAI Fall Symposium: Artificial Intelligence of Humor	Dallin D. Oaks 1
+AAAI Fall Symposium: Artificial Intelligence of Humor	Pawel Dybala 1
+AAAI Fall Symposium: Artificial Intelligence of Humor	Leo Obrst 1
+AAAI Fall Symposium: Artificial Intelligence of Humor	John F. Sowa 1
+AAAI Fall Symposium: Artificial Intelligence of Humor	Kenji Araki 1
+AAAI Fall Symposium: Artificial Intelligence of Humor	Jukka M. Toivanen 1
+
+```
+
+- List of authors who published without interruption for N years where 10 <= N
+The programs outputs a list of authors who have published consecutively for more than 10 years.
+The output can be found at /output/Task2-AuthorNYears.The sample output looks below. The first column shows the author name and second column shows the number of years they have published without interruption
+```
+A Min Tjoa	31
+A-Xing Zhu	12
+A. A. Soliman	11
+A. Agung Julius	15
+A. Alan B. Pritsker	14
+A. Ant Ozok	11
+A. Aydin Alatan	27
+A. Ben Hamza	20
+A. Benjamin Premkumar	16
+A. C. Cem Say	12
+```
+
+- This task will produce the list of publications that contains only one author under each venue.
+The output can be found at /output/Task3-PublicationOneAuthor. The sample looks like below.
+```
+#MSM	[Information Theoretic Tools for Social Media.	 Computational Social Science and Microblogs - The Good the Bad and the Ugly.	 ACE: A Concept Extraction Approach using Linked Open Data.	 A New ANEW: Evaluation of a Word List for Sentiment Analysis in Microblogs.	 Unsupervised Information Extraction using BabelNet and DBpedia.]					
+#Microposts	[Studying the Role of Elites in U.S. Political Twitter Debates.]									
+(KNOW@LOD/CoDeS)@ESWC	[Finding and Avoiding Bugs in Enterprise Ontologies.	 Not-So-Linked Solution to the Linked Data Mining Challenge 2016.]								
+*SEM@ACL	[Natural Solution to FraCaS Entailment Problems.]									
+*SEM@COLING	[Learning the Peculiar Value of Actions.	 Identifying semantic relations in a specialized corpus through distributional analysis of a cooccurrence tensor.]								
+```
+
+- 
