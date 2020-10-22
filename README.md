@@ -2,9 +2,8 @@
 ### Description: The objective of this project is to design and implement an instance of the map/reduce computational model on DBLP dataset
 
 ## Overview
-In this project, we will create Map Reduce programs for parallel processing of the [publically available DBLP dataset](https://dblp.uni-trier.de) that contains entries for various publications at many different venues (e.g., conferences and journals). 
-We perform multiple map/reduce jobs to analyze the data. Below are the tasks performed to get insights into the data.
-</br>
+In this project, we will create Map Reduce programs for parallel processing of the [publically available DBLP dataset](https://dblp.uni-trier.de) that contains entries for various publications at many different venues (e.g., conferences and journals).We perform multiple map/reduce jobs to analyze the data. Below are the tasks performed to get insights into the data.
+
 - Find top ten published authors at each venue.
 - Compute the list of authors who published without interruption for N years where 10 <= N.
 - Produce the list of publications that contains only one author for each venue.
