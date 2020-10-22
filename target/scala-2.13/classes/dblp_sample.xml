@@ -511,4 +511,17 @@
         <school>MIT Laboratory for Computer Science, Cambridge, MA, USA</school>
         <ee>http://hdl.handle.net/1721.1/37012</ee>
     </phdthesis>
+    <article mdate="2018-11-06" key="journals/toms/RojasSS08">
+        <author>Marielba Rojas</author>
+        <author orcid="0000-0002-6250-0137">Sandra A. Santos</author>
+        <author>Danny C. Sorensen</author>
+        <title>Algorithm 873:: LSTRS: MATLAB software for large-scale trust-region subproblems and regularization.</title>
+        <year>2008</year>
+        <volume>34</volume>
+        <journal>ACM Trans. Math. Softw.</journal>
+        <number>2</number>
+        <ee>https://doi.org/10.1145/1326548.1326553</ee>
+        <url>db/journals/toms/toms34.html#RojasSS08</url>
+        <pages>11:1-11:28</pages>
+    </article>
 </dblp>

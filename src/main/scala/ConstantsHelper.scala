@@ -1,0 +1,20 @@
+object ConstantsHelper {
+  val AUTHOR = "author"
+  val EDITOR = "editor"
+  val VENUE = "venue"
+  val YEAR = "year"
+  val TITLE = "title"
+  val ARTICLE = "article"
+  val INPROCEEDINGS = "inproceedings"
+  val PROCEEDINGS =  "proceedings"
+  val INCOLLECTION = "incollection"
+  val BOOK = "book"
+  val PHDTHESIS = "phdthesis"
+  val MASTERSTHESIS = "mastersthesis"
+  val WWW = "www"
+  val JOURNAL = "journal"
+  val BOOKTITLE = "booktitle"
+  val SCHOOL = "school"
+  val PUBLISHER = "publisher"
+  val ARRAY_LENGTH = 9
+}
