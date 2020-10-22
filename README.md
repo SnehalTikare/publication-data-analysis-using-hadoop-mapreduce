@@ -48,7 +48,7 @@ $ sbt clean compile assembly
 After running the above command, a jar file is created under the path target/scala-2.13/ in the project
 
 - Traverse to the folder where the JAR as been generated and run the below command
-```$xslt
+```
 $ hadoop jar <JAR-NAME> /input /output
 ```
 - Example: 
