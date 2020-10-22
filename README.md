@@ -157,19 +157,19 @@ Yan Li	    2560
 
 Top 100 authors with no co-authors	
 
-C. P. Gill	0
-Robert J. Betts	0
+C. P. Gill	        0
+Robert J. Betts	    0
 Christopher Mohri	0
-Hartmut Michels	0
-Angus Dunn	0
-Martin Fl√∂ck	0
-John H. Picklo	0
-Kendall Bartsch	0
+Hartmut Michels	    0
+Angus Dunn	        0
+Martin Fl√∂ck	    0
+John H. Picklo	    0
+Kendall Bartsch	    0
 Theeratorn Lersilp	0
 Rooholah Majdodin	0
 Gregory E. Feldkamp	0
-Gabor Laszlo	0
-K. Tchou	0
+Gabor Laszlo	    0
+K. Tchou	        0
 ```
 ### Implementation on AWS EMR
 The project has been deployed on AWS Elastic Map Reduce. The steps to setup the cluster and execute Map Reduce program can be 
