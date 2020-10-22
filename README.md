@@ -67,7 +67,7 @@ OR
  hdfs dfs -rm -r -f /output  
 ```
 
-- The output folder contains 5 folder each representing output from 5 tasks.Rename the files named part-r-00000 to output.csv to see the output in CSV
+- The output folder contains 5 folders each representing output from 5 tasks.Rename the files named part-r-00000 to output.csv to see the output in CSV
 
 ### Task and output Description
 - Task 1 - Top ten published authors at each venue - 
@@ -179,5 +179,5 @@ K. Tchou	        0
 ```
 ### Implementation on AWS EMR
 The project has been deployed on AWS Elastic Map Reduce. The steps to setup the cluster and execute Map Reduce program can be 
-found at [link](https://youtu.be/roHZGIEtiv0).
-Alternate drive [link](), in case the abpve link doesn't work
+found at [youtube](https://youtu.be/roHZGIEtiv0).
+Alternate drive [link](https://drive.google.com/drive/folders/1lzqiZF-lXn1Ro1uOoPmmS2TSYDC46hjt?usp=sharing), in case the above link doesn't work
