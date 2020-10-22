@@ -2,19 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3211267-9280-4d37-b7ab-7f1af59a1055" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/outputs/fulloutput1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/outputs/fulloutput2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/outputs/fulloutput3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/outputs/fulloutput4.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/outputs/fulloutput5.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/HW2-assembly-0.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/HW2-assembly-0.1.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/zinc/inc_compile_2.13.zip" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/zinc/inc_compile_2.13.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/assembly/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/assembly/_global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/test/compileIncremental/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/compileIncremental/_global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/test/definedTests/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/definedTests/_global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/test/test/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/test/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/fulloutput1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/outputs/Task1-AuthorVenue.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/fulloutput2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/outputs/Task2-AuthorNYears.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/fulloutput3.csv" beforeDir="false" afterPath="$PROJECT_DIR$/outputs/Task3-PublicationOneAuthor.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/fulloutput4.csv" beforeDir="false" afterPath="$PROJECT_DIR$/outputs/Task4-AuthorPublicationMapper.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/fulloutput5.csv" beforeDir="false" afterPath="$PROJECT_DIR$/outputs/Task5-MostCoAuthors&amp;NoCoAuthors.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -222,7 +215,7 @@
       <workItem from="1602743278693" duration="62025000" />
       <workItem from="1602976371422" duration="2441000" />
       <workItem from="1602979432749" duration="20166000" />
-      <workItem from="1603036527033" duration="61993000" />
+      <workItem from="1603036527033" duration="63297000" />
     </task>
     <task id="LOCAL-00001" summary="Changed Mappers and Reducers">
       <created>1603152842332</created>
@@ -259,7 +252,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603377066952</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added output folder">
+      <created>1603387186735</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1603387186740</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -271,7 +271,8 @@
     <MESSAGE value="Fixed minor issues" />
     <MESSAGE value="Added Readme" />
     <MESSAGE value="Updated Readme" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated Readme" />
+    <MESSAGE value="Added output folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added output folder" />
   </component>
   <component name="WindowStateProjectService">
     <state x="320" y="96" key="#Project_Structure" timestamp="1603340355153">
@@ -298,10 +299,10 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="483" y="139" key="#xdebugger.evaluate/0.23.1440.877@0.23.1440.877" timestamp="1602740474097" />
-    <state x="204" y="33" key="CommitChangelistDialog2" timestamp="1603377066539">
+    <state x="204" y="33" key="CommitChangelistDialog2" timestamp="1603387178095">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="204" y="33" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1603377066539" />
+    <state x="204" y="33" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1603387178095" />
     <state width="454" height="466" key="DebuggerActiveHint" timestamp="1602868638424">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -342,10 +343,10 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="221" y="63" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1603061671789" />
-    <state x="320" y="171" key="Vcs.Push.Dialog.v2" timestamp="1603377075109">
+    <state x="320" y="171" key="Vcs.Push.Dialog.v2" timestamp="1603387200381">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="320" y="171" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1603377075109" />
+    <state x="320" y="171" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1603387200381" />
     <state width="720" height="406" key="XDebugger.FullValuePopup" timestamp="1602966383728">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
