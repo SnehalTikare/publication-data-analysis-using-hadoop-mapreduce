@@ -51,7 +51,8 @@ After running the above command, a jar file is created under the path target/sca
 ```
 $ hadoop jar <JAR-NAME> /input /output
 ```
-- Example: 
+- Example
+
 ```
 $ hadoop jar HW2-assembly-0.1.jar /input /output
 ```
