@@ -61,6 +61,12 @@ $ hadoop jar HW2-assembly-0.1.jar /input /output
 ```
 $hdfs dfs -rm -r /output
 ```
+OR
+
+```
+ hdfs dfs -rm -r -f /output  
+```
+
 - The output folder contains 5 folder each representing output from 5 tasks.Rename the files named part-r-00000 to output.csv to see the output in CSV
 
 ### Task and output Description
