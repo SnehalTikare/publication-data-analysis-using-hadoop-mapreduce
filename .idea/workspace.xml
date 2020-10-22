@@ -211,7 +211,7 @@
       <workItem from="1602743278693" duration="62025000" />
       <workItem from="1602976371422" duration="2441000" />
       <workItem from="1602979432749" duration="20166000" />
-      <workItem from="1603036527033" duration="64459000" />
+      <workItem from="1603036527033" duration="64842000" />
     </task>
     <task id="LOCAL-00001" summary="Changed Mappers and Reducers">
       <created>1603152842332</created>
@@ -262,7 +262,21 @@
       <option name="project" value="LOCAL" />
       <updated>1603388386160</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Updated Readme">
+      <created>1603389648671</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1603389648671</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Updated Readme">
+      <created>1603389735835</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1603389735835</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -273,9 +287,9 @@
     <MESSAGE value="Changed Mappers and Reducers" />
     <MESSAGE value="Fixed minor issues" />
     <MESSAGE value="Added Readme" />
-    <MESSAGE value="Updated Readme" />
     <MESSAGE value="Added output folder" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added output folder" />
+    <MESSAGE value="Updated Readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated Readme" />
   </component>
   <component name="WindowStateProjectService">
     <state x="320" y="96" key="#Project_Structure" timestamp="1603340355153">
@@ -302,10 +316,10 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="483" y="139" key="#xdebugger.evaluate/0.23.1440.877@0.23.1440.877" timestamp="1602740474097" />
-    <state x="204" y="33" key="CommitChangelistDialog2" timestamp="1603389648234">
+    <state x="204" y="33" key="CommitChangelistDialog2" timestamp="1603389735637">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="204" y="33" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1603389648234" />
+    <state x="204" y="33" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1603389735637" />
     <state width="454" height="466" key="DebuggerActiveHint" timestamp="1602868638424">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -346,10 +360,10 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="221" y="63" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1603061671789" />
-    <state x="320" y="171" key="Vcs.Push.Dialog.v2" timestamp="1603389655909">
+    <state x="320" y="171" key="Vcs.Push.Dialog.v2" timestamp="1603389741409">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="320" y="171" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1603389655909" />
+    <state x="320" y="171" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1603389741409" />
     <state width="720" height="406" key="XDebugger.FullValuePopup" timestamp="1602966383728">
       <screen x="0" y="23" width="1440" height="877" />
     </state>

@@ -4,29 +4,29 @@
 ## Overview
 In this project, we will create Map Reduce programs for parallel processing of the [publically available DBLP dataset](https://dblp.uni-trier.de) that contains entries for various publications at many different venues (e.g., conferences and journals). 
 We perform multiple map/reduce jobs to analyze the data. Below are the tasks performed to get insights into the data.
-1. Find top ten published authors at each venue.
-2. Compute the list of authors who published without interruption for N years where 10 <= N.
-3. Produce the list of publications that contains only one author for each venue.
-4. Produce the list of publications for each venue that contain the highest number of authors for each of these venues. 
-5. Compute the list of top 100 authors in the descending order who publish with most co-authors and the list of 100 authors who publish without any co-authors.
+- Find top ten published authors at each venue.
+- Compute the list of authors who published without interruption for N years where 10 <= N.
+- Produce the list of publications that contains only one author for each venue.
+- Produce the list of publications for each venue that contain the highest number of authors for each of these venues. 
+- Compute the list of top 100 authors in the descending order who publish with most co-authors and the list of 100 authors who publish without any co-authors.
 
 ## Instructions
 Below are the instructions to run the project
 
-### Prerequisities
-Below are the prerequisities required to run the program
+### Prerequisites
+Below are the prerequisites required to run the program
 ```
 jdk-1.8.0_265
 Scala v2.13.3 
-Hadoop v3.3.0
+Hadoop v3.3.0   
 Simple build tool (SBT) v1.1.2
 ```
 ### Steps to setup the environment for execution 
 - To setup the Hadoop environment on your system, you need to install Apache Hadoop or alternatively use Virtual Box to install Hortonworks Sandbox,which consists of pre-configured Apache libraries 
 - Once the environment is setup, run the below command to start the Hadoop cluster
-```
-$ start-all.sh
-```
+  ```
+   $ start-all.sh
+  ```
 - Create a input folder in HDFS directory
 ```
 hdfs dfs -mkdir /input
