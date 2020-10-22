@@ -94,7 +94,7 @@ AAAI Fall Symposium: Artificial Intelligence of Humor	        Jukka M. Toivanen 
 
 - Task 2 - List of authors who published without interruption for N years where 10 <= N
 The programs outputs a list of authors who have published consecutively for more than 10 years.
-The output can be found at /output/Task2-AuthorNYears.The sample output looks below. The first column shows the author name and second column shows the number of years they have published without interruption.
+The output can be found at /output/Task2-AuthorNYears.The sample output looks like below. The first column shows the author name and second column shows the number of years they have published without interruption.
 
 ```
 A Min Tjoa	            31
@@ -120,7 +120,7 @@ First column shows the venue name and the second column lists the titles of publ
 5G World Forum	                    [Feasibility and Challenges of Over-The-Air Testing for 5G Millimeter Wave Devices.	 Blind Carrier Detection for Signals with Unknown Modulation.	 An Overview of Proactive Forensic Solutions and its Applicability to 5G.	 Tractable Scheduling Algorithms for Self-Backhaul in 5G Networks.	 5G-NR Bandwidth Efficient Modulation Options for Efficient Link Operation that are Compatible with mmW Transistor Nonlinearities.	 URLLC Design for Real-Time Control in Wireless Control Systems.	 Autonomous 5G Smallcell Network Deployment and Optimization in Unlicensed Spectrum.	 EIRP TRP Partial TRP and Radiated Immunity For 5G millimeter Wave Device Compliance.	 A Comparison of Scheduling Algorithms for Wireless Access plus X-Haul.	 Engineering the 5G Environment.	 Initial Study on the Architecture of Field Observation in 5G Era.	 Private 5G Networks for Vertical Industries: Deployment and Operation Models.]								
 ```
 
-- Task 4 - List of publications with contain the highest number of authors for each venues
+- Task 4 - List of publications which contains the highest number of authors for each venues
 The programs outputs the list of publication for each venue that contains highest number of authors for each of these venue.
 The output can be found at /output/Task4-AuthorPublicationMapper.  The first column shows the venue followed by list of publication for each venue which contain highest number of authors under that venue
 
@@ -143,7 +143,7 @@ This file contains the output for both Most co-authors and no co-authors.
 The output sample looks like below. The first column contains the author's name and second column contains publications published by him/her.
 ```
 Top 100 authors with most co-authors
-Wei Li	3642
+Wei Li	    3642
 Yang Liu	3436
 Wei Wang	3407
 Wei Zhang	3337
@@ -174,3 +174,4 @@ K. Tchou	        0
 ### Implementation on AWS EMR
 The project has been deployed on AWS Elastic Map Reduce. The steps to setup the cluster and execute Map Reduce program can be 
 found at [link](https://youtu.be/roHZGIEtiv0).
+Alternate drive [link](), in case the abpve link doesn't work
