@@ -2,8 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3211267-9280-4d37-b7ab-7f1af59a1055" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/outputs/fulloutput1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/fulloutput2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/fulloutput3.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/fulloutput4.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/fulloutput5.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/HW2-assembly-0.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/HW2-assembly-0.1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/zinc/inc_compile_2.13.zip" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/zinc/inc_compile_2.13.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/assembly/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/assembly/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/compileIncremental/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/compileIncremental/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/definedTests/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/definedTests/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/test/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/test/_global/streams/out" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +28,20 @@
     <execution>
       <executable />
     </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
@@ -197,7 +222,7 @@
       <workItem from="1602743278693" duration="62025000" />
       <workItem from="1602976371422" duration="2441000" />
       <workItem from="1602979432749" duration="20166000" />
-      <workItem from="1603036527033" duration="57265000" />
+      <workItem from="1603036527033" duration="61993000" />
     </task>
     <task id="LOCAL-00001" summary="Changed Mappers and Reducers">
       <created>1603152842332</created>
@@ -227,7 +252,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603351992379</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Updated Readme">
+      <created>1603377066951</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1603377066952</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -238,7 +270,8 @@
     <MESSAGE value="Changed Mappers and Reducers" />
     <MESSAGE value="Fixed minor issues" />
     <MESSAGE value="Added Readme" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Readme" />
+    <MESSAGE value="Updated Readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated Readme" />
   </component>
   <component name="WindowStateProjectService">
     <state x="320" y="96" key="#Project_Structure" timestamp="1603340355153">
@@ -265,10 +298,10 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="483" y="139" key="#xdebugger.evaluate/0.23.1440.877@0.23.1440.877" timestamp="1602740474097" />
-    <state x="204" y="33" key="CommitChangelistDialog2" timestamp="1603351972425">
+    <state x="204" y="33" key="CommitChangelistDialog2" timestamp="1603377066539">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="204" y="33" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1603351972425" />
+    <state x="204" y="33" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1603377066539" />
     <state width="454" height="466" key="DebuggerActiveHint" timestamp="1602868638424">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -309,10 +342,10 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="221" y="63" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1603061671789" />
-    <state x="320" y="171" key="Vcs.Push.Dialog.v2" timestamp="1603352030748">
+    <state x="320" y="171" key="Vcs.Push.Dialog.v2" timestamp="1603377075109">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="320" y="171" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1603352030748" />
+    <state x="320" y="171" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1603377075109" />
     <state width="720" height="406" key="XDebugger.FullValuePopup" timestamp="1602966383728">
       <screen x="0" y="23" width="1440" height="877" />
     </state>

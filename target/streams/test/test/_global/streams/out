@@ -1,4 +1,4 @@
-[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(TestClass, org.scalatest.tools.Framework$$anon$1@89d9767, false, [SuiteSelector])[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(TestClass, org.scalatest.tools.Framework$$anon$1@598d8227, false, [SuiteSelector])[0m[0J
 [0m[[0m[0minfo[0m] [0m[0m[32mTestClass:[0m[0m[0J
 [0m[[0m[0minfo[0m] [0m[0m[32m- Loading of configurations[0m[0m[0J
 [0m[[0m[0minfo[0m] [0m[0m[32m- Output from XML Parser - Venue[0m[0m[0J
@@ -8,7 +8,7 @@
 [0m[[0m[0minfo[0m] [0m[0m[32m- Function isConsecutive[0m[0m[0J
 [0m[[0m[0minfo[0m] [0m[0m[32m- PublicationOneAuthorReducer[0m[0m[0J
 [0m[[0m[0minfo[0m] [0m[0mScalaTest[0m[0J
-[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 2 seconds, 993 milliseconds.[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 890 milliseconds.[0m[0m[0J
 [0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 7[0m[0m[0J
 [0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 1, aborted 0[0m[0m[0J
 [0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 7, failed 0, canceled 0, ignored 0, pending 0[0m[0m[0J
