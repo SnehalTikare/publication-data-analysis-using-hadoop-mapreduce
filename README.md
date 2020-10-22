@@ -172,4 +172,4 @@ K. Tchou	0
 ```
 ### Implementation on AWS EMR
 The project has been deployed on AWS Elastic Map Reduce. The steps to setup the cluster and execute Map Reduce program can be 
-found at link.
+found at [link](https://youtu.be/roHZGIEtiv0).
